@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T09:39:01.506Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="d8LF9OhSvNIj9ciDogFa" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-16T09:40:53.058Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Wv7umf1yCu1WPatEMA9Q" version="21.6.8" type="github">
   <diagram name="Страница — 1" id="uMBP3uglS6KfB2vWSXE3">
     <mxGraphModel dx="1368" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,13 +110,13 @@
           <mxGeometry x="875" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aBMBQ2h6nMREYINtzS8h-37" value="&lt;h1&gt;See dashboard&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="250" width="190" height="120" as="geometry" />
+          <mxGeometry x="1290" y="160" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="aBMBQ2h6nMREYINtzS8h-40" value="SQL Query" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aBMBQ2h6nMREYINtzS8h-38" target="aBMBQ2h6nMREYINtzS8h-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aBMBQ2h6nMREYINtzS8h-38" value="Open dashboard page" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="300" width="210" height="40" as="geometry" />
+          <mxGeometry x="1280" y="210" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aBMBQ2h6nMREYINtzS8h-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aBMBQ2h6nMREYINtzS8h-38" target="aBMBQ2h6nMREYINtzS8h-41">
           <mxGeometry relative="1" as="geometry" />
@@ -127,13 +127,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aBMBQ2h6nMREYINtzS8h-39" value="select items data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="1530" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aBMBQ2h6nMREYINtzS8h-41" value="Draw dashboard" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1165" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="1325" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aBMBQ2h6nMREYINtzS8h-43" value="&lt;h1&gt;See reports&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="810" y="730" width="190" height="120" as="geometry" />
+          <mxGeometry x="832" y="730" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="aBMBQ2h6nMREYINtzS8h-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aBMBQ2h6nMREYINtzS8h-45" target="aBMBQ2h6nMREYINtzS8h-49">
           <mxGeometry relative="1" as="geometry" />
@@ -227,6 +227,9 @@
         </mxCell>
         <mxCell id="aBMBQ2h6nMREYINtzS8h-76" value="Show income report" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="845" y="1235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aBMBQ2h6nMREYINtzS8h-78" value="&lt;h1 style=&quot;text-align: center;&quot;&gt;Items&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Income&lt;/li&gt;&lt;li&gt;MoneyFlow&lt;/li&gt;&lt;li&gt;Account&lt;/li&gt;&lt;li&gt;Payments&lt;/li&gt;&lt;li&gt;Outcome&lt;/li&gt;&lt;li&gt;Clients&lt;/li&gt;&lt;li&gt;Projects&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="220" width="190" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
